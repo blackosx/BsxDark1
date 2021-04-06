@@ -9,7 +9,7 @@ A set of PNG files wrapped in Apple .icns file format suitable for using as a th
 **Initial Setup of OpenCanopy**<br>
 Please refer to [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencore-s-gui) at dortania.
 
-**Supports OpenCore Version**<br>
+**Compatible with OpenCore Version**<br>
 0.6.8
 
 **Using this theme**<br>
