@@ -1,4 +1,4 @@
-#   
+# BsxDark1
 A set of PNG files wrapped in Apple .icns file format suitable for using as a theme for OpenCanopy which is part of OpenCore.
 
 <img src="https://github.com/blackosx/BsxDark1/blob/main/preview.jpg" alt="theme_preview" border="0">
