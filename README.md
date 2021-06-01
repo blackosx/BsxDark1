@@ -1,7 +1,9 @@
 # BsxDark1
 A set of PNG files wrapped in Apple .icns file format suitable for using as a theme for OpenCanopy which is part of OpenCore.
 
-<img src="https://github.com/blackosx/BsxDark1/blob/main/preview.jpg" alt="theme_preview" border="0">
+<img src="https://github.com/blackosx/BsxDark1/blob/main/preview_ui.jpg" alt="theme_preview" border="0">
+
+<img src="https://github.com/blackosx/BsxDark1/blob/main/preview_password.jpg" alt="theme_preview" border="0">
 
 **Requirements**<br>
 [OpenCore](https://github.com/acidanthera/OpenCorePkg) with OpenCanopy installed and configured.
@@ -16,8 +18,6 @@ Please refer to [OpenCore beauty treatment](https://dortania.github.io/OpenCore-
 
 **Using this theme**<br>
 This repository contains a Blackosx directory with a sub-directory BsxDark1 which contains all necessary ICNS files for the theme.
-
-However, please note that this theme also contains multiple backgrounds at different sizes. You will want to select your background image from the thirteen different sized files in the /Blackosx/Backgrounds directory. Choose the one for your display resolution that OpenCanopy uses and move it in with the other .icns files. You can then remove the Backgrounds directory as these files will generally be the largest and due to limited space on the EFI System Partition you won't want to store redundant image files.
 
 If you don't have a EFI/OC/Resources/Image/Blackosx directory in EFI/OC/Resources/Image/<br>
 - then add the Blackosx directory to EFI/OC/Resources/Image/ directory in your systems EFI System Partition.
